@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Transcoder</string>
+    <string name="transcode_start">开始转码</string>
+    <string name="sync">Run Sync</string>
+    <string name="async">Run Async</string>
+    <string name="transcode_begin_time">起始时间</string>
+    <string name="transcode_input_file">输入文件</string>
+    <string name="transcode_select_file">单击选择文件</string>
+    <string name="time_duration">持续时间</string>
+    <string name="transcode_format">输出格式</string>
+    <string name="transcode_output_name">输出文件名</string>
+    <string name="transcode_picture_size">图片大小</string>
+    <string name="colon">:</string>
+    <string name="text_x">x</string>
+    <string name="save_transpose">是否旋转</string>
+    <string name="text_transpose">请勾选是否旋转视频</string>
+    <string name="transcode_picture_width">宽</string>
+    <string name="transcode_picture_height">高</string>
+    <string name="text_00">00</string>
+    <string name="video_list_empty">"No videos."</string>
+    <string name="sdcard_missing_message">"Your phone does not have an SD card inserted."</string>
+    <string name="selected">selected</string>
+    <string name="transcode_fps">帧率</string>
+    <string name="default_fps">25</string>
+    <string name="transcode_complete">视频转码成功，已存至手机内存中</string>
+    <string name="open_storage">打开内存</string>
+    <string name="toast_duration_empty">持续时间为空，请输入</string>
+    <string name="toast_output_name_empty">输出文件名为空，请输入</string>
+    <string name="toast_transcode_complete">转码成功，已存至手机内存</string>
+    <string name="video_transcode">视频转码</string>
+    <string name="picture_transcode">图片转码</string>
+    <string name="audio_transcode">音频转码</string>
+    <string name="denied_required_permission">T卡权限被拒绝，请到设置-应用中打开该权限</string>
+    <string name="dialog_label">请选择转码文件</string>
+
+</resources>

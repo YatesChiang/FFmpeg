@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="video_styles">
+        <item>gif</item>
+        <item>avi</item>
+        <item>mp4</item>
+    </string-array>
+
+    <string-array name="audio_styles">
+        <item>mp3</item>
+        <item>wav</item>
+        <item>wma</item>
+    </string-array>
+
+    <string-array name="picture_styles">
+        <item>bmp</item>
+        <item>jpg</item>
+        <item>png</item>
+    </string-array>
+
+</resources>
